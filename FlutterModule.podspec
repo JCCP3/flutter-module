@@ -103,10 +103,10 @@ Pod::Spec.new do |s|
   #  non-essential files like tests, examples and documentation.
   #
 
-  s.resource  = "flutter_assets"
+  # s.resource  = "flutter_assets"
   # s.resources = "Resources/*.png"
 
-  s.preserve_paths = "pluginspodhelper.rb", ".flutter-plugins", "Plugins/**/*.{*}"
+  # s.preserve_paths = "pluginspodhelper.rb", ".flutter-plugins", "Plugins/**/*.{*}"
 
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
